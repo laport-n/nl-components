@@ -1,9 +1,4 @@
-# Components
-
-1. CTA (Call to action)
-2. ...
-
-# 1. CTA
+# CTA components
 
 Un composant sticky pour exposer des calls to actions avec animations.
 
@@ -46,4 +41,4 @@ return <ContainerCTA itemsCTA={itemsCTA} />;
 ```
 
 ## Demo
-![Alt Text](./components/CTA/chrome-capture-2024-4-19.gif)
+![Alt Text](./chrome-capture-2024-4-19.gif)
